@@ -39,13 +39,13 @@ The **Racing Simulator** is a custom-built, high-fidelity car steering simulatio
 
 ## Gallery
 
-### Custom PCB for Pedal Subsystem
+### Custom PCB Top Side
 
-![PCB Pedal Subsystem](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80)
+![PCB Pedal Subsystem](pcb/PCB_top.png)
 
-### Custom PCB for Steering & Force Feedback
+### Custom PCB Bottom Side
 
-![PCB Steering Force Feedback](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80)
+![PCB Steering Force Feedback](pcb/PCB_bottom.png)
 
 ---
 
